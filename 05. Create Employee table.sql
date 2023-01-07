@@ -11,6 +11,6 @@ INSERT INTO employee VALUES
 ('Shane', 'Warne', 30, 20000, 'Bangalore'),
 ('Rohit', 'Sharma', 32, 30000, 'Hyderabad'),
 ('Shikhar', 'Dhawan', 32, 25000, 'Hyderabad'),
-('Rahul', 'Dravid', 31, 20000, 'Banagalore'),
+('Rahul', 'Dravid', 31, 20000, 'Bangalore'),
 ('Saurabh', 'Ganguly', 32, 15000, 'Pune'),
 ('Kapil', 'Dev', 34, 10000, 'Pune');
